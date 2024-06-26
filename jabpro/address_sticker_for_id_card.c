@@ -4,7 +4,7 @@
  * Copyright 2022 by Fraunhofer SIT. All rights reserved.
  * See LICENSE file for full terms of use and distribution.
  *
- * Contact: Huajian Liu <liu@sit.fraunhofer.de>
+ * Contact: Waldemar Berchtold, Huajian Liu <jabcode@sit.fraunhofer.de>
  *
  * @file adress_sticker_for_id_card.c
  * @brief Specific functions for address sticker profile for id card
